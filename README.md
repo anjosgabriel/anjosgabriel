@@ -9,17 +9,17 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará informações sobre mi
 
 ## Interesses e Objetivos
 
-- **Interesse Principal:** Ciência de Dados
+- **Projetos:** Meus projetos pessoais
 
-Neste repositório, você encontrará informações sobre meu interesse e objetivo principal, que é a Ciência de Dados.
+Neste repositório, você encontrará informações sobre meus trabalhos, sejam eles dos meus estudos ou até mesmo de hobby.
 
 ## Especializações
 
 - **Especialização:** Ciência de Dados
 
-Esta é a minha área de especialização, na qual estou focando meus estudos e desenvolvendo projetos relacionados.
+Esta é a área que pretendo me especializar, na qual irei focar meus estudos e desenvolvendo projetos relacionados.
 
 ## README Gerado com Sucesso
 
-Este README foi gerado automaticamente a partir das informações fornecidas. Sinta-se à vontade para explorar meus projetos e acompanhar meu progresso!
+Sinta-se à vontade para explorar meus projetos e acompanhar meu progresso!
 
