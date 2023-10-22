@@ -1,27 +1,25 @@
--- Informações Pessoais
-CREATE TABLE Pessoal (
-    Nome VARCHAR(50) NOT NULL,
-    Ocupacao VARCHAR(100) NOT NULL
-);
+# Gabriel dos Anjos - Desenvolvedor em Formação
 
-INSERT INTO Pessoal (Nome, Ocupacao)
-VALUES ('Gabriel dos Anjos', 'Estudante de Desenvolvimento de Sistemas');
+Bem-vindo ao meu perfil no GitHub! Aqui você encontrará informações sobre mim, meus interesses, objetivos e especializações.
 
--- Informações de Interesses e Objetivos
-CREATE TABLE Interesses (
-    Interesse VARCHAR(150)
-);
+## Informações Pessoais
 
-INSERT INTO Interesses (Interesse)
-VALUES ('Ciência de Dados');
+- **Nome:** Gabriel dos Anjos
+- **Ocupação:** Estudante de Desenvolvimento de Sistemas
 
--- Especializações
-CREATE TABLE Especializacoes (
-    Especializacao VARCHAR(100)
-);
+## Interesses e Objetivos
 
-INSERT INTO Especializacoes (Especializacao)
-VALUES ('Ciência de Dados');
+- **Interesse Principal:** Ciência de Dados
 
--- README Gerado com Sucesso
-SELECT 'README criado com sucesso!';
+Neste repositório, você encontrará informações sobre meu interesse e objetivo principal, que é a Ciência de Dados.
+
+## Especializações
+
+- **Especialização:** Ciência de Dados
+
+Esta é a minha área de especialização, na qual estou focando meus estudos e desenvolvendo projetos relacionados.
+
+## README Gerado com Sucesso
+
+Este README foi gerado automaticamente a partir das informações fornecidas. Sinta-se à vontade para explorar meus projetos e acompanhar meu progresso!
+
