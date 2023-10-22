@@ -1,4 +1,4 @@
-# Gabriel dos Anjos - Desenvolvedor em Formação
+# Gabriel dos Anjos - Desvendando o mundo da tecnologia
 
 Bem-vindo ao meu perfil no GitHub! Aqui você encontrará informações sobre mim, meus interesses, objetivos e especializações.
 
