@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos.
 
-[![image](https://github.com/anjosgabriel/anjosgabriel/raw/main/assets/134111489/54bc5a31-96ac-4114-9f99-d98d0308019f)](https://www.linkedin.com/in/anjosgabriel/)
+[(https://github.com/anjosgabriel/anjosgabriel/raw/main/assets/134111489/54bc5a31-96ac-4114-9f99-d98d0308019f)](https://www.linkedin.com/in/anjosgabriel/)
 
 ## README Gerado com Sucesso
 
