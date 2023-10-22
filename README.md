@@ -15,7 +15,7 @@ Neste repositório, você encontrará informações sobre meus trabalhos, sejam 
 
 ## Especializações
 
-- **Especialização:** Ciência de Dados
+- **Futura Especialização:** Ciência de Dados
 
 Esta é a área que pretendo me especializar, na qual irei focar meus estudos e desenvolvendo projetos relacionados.
 
