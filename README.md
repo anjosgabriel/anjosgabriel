@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos.
 
-(https://www.linkedin.com/in/anjosgabriel/)
+https://www.linkedin.com/in/anjosgabriel/
 
 ## README Gerado com Sucesso
 
