@@ -15,6 +15,10 @@ Neste repositório, você encontrará informações sobre meus trabalhos, sejam 
 
 ## Especializações
 
+- **Atual Especialização:** Curso técnico em Desenvolvimento de sistemas
+
+Atualmente estudo na fundação bradesco, em Osasco. Aquiri muitos conhecimentos e novas experiências e pude descobrir a minha paixão por dados.
+
 - **Futura Especialização:** Ciência de Dados
 
 Esta é a área que pretendo me especializar, na qual irei focar meus estudos e desenvolvendo projetos relacionados.
