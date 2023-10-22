@@ -5,6 +5,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos.
 ## Tecnologias 
 
 ![image](https://github.com/anjosgabriel/anjosgabriel/assets/134111489/0684162a-e114-47f3-9f5f-29c8391c8282)
+---
 ![image](https://github.com/anjosgabriel/anjosgabriel/assets/134111489/1e65d8dd-ac57-4f22-b93f-767158c97cee)
 ![image](https://github.com/anjosgabriel/anjosgabriel/assets/134111489/9841aedc-54dd-4f3b-8646-8c21cf00758d)
 ![image](https://github.com/anjosgabriel/anjosgabriel/assets/134111489/ef644ecc-2fd3-4b57-8a8b-9a1e4da02697)
