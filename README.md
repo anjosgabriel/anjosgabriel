@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará informações sobre mi
 - **Nome:** Gabriel dos Anjos
 - **Ocupação:** Estudante de Desenvolvimento de Sistemas
 
-## Interesses e Objetivos
+## O que esperar de mim?
 
 - **Projetos:** Meus projetos pessoais
 
