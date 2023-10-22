@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos.
 
-## Tecnologias que sei 
+## Tecnologias 
 
 ![image](https://github.com/anjosgabriel/anjosgabriel/assets/134111489/46651713-b33e-4f65-be46-130bd135c86c)
 ![image](https://github.com/anjosgabriel/anjosgabriel/assets/134111489/ef644ecc-2fd3-4b57-8a8b-9a1e4da02697)
@@ -10,7 +10,10 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos.
 ![image](https://github.com/anjosgabriel/anjosgabriel/assets/134111489/1e65d8dd-ac57-4f22-b93f-767158c97cee)
 ![image](https://github.com/anjosgabriel/anjosgabriel/assets/134111489/788adc3e-e5a3-4eac-82d9-88411c3a2a3b)
 
+## Sobre mim
+
+Sou estudante de desenvolvimento de sistemas, e possuo grande inclinação para a área de ciência de dados, visto que os dados estão presentes em tudo no noso cotidiano, portanto, pretendo me especializar nessa área.
+
 ## README Gerado com Sucesso
 
 Sinta-se à vontade para explorar meus projetos e acompanhar meu progresso!
-
