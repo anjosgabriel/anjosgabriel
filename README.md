@@ -1,6 +1,6 @@
-#Seja Bem-Vindo 👋</h1>
-##Eu sou Gabriel</h2>
-###Desenvolvedor de sistemas Web e Mobile</h3>
+# Seja Bem-Vindo 👋</h1>
+## Eu sou Gabriel</h2>
+### Desenvolvedor de sistemas Web e Mobile</h3>
 
 - 🔭 Atualmente estou trabalhando no projeto Lines
 - 🌱 Estou aprendendo tecnologias como: React Native, JavaScript, Google Firebase...
