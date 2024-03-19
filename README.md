@@ -7,7 +7,7 @@
 - 👯 Procuro colaborar em gestão de projetos 
 - ⚡ Fun fact: Gosto de programação, acho muito interessante essa área da técnologia, porém futuramente pretendo migrar para Gestão.
 - 📫 Como chegar até mim:
- [![LinkedIn](https://exemplo.com/linkedin.png)](https://www.linkedin.com/in/anjosgabriel/)
+ [![LinkedIn](https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B6RFBhOppTsiXpDpA4lvJxA%3D%3D)](https://www.linkedin.com/in/anjosgabriel/)
 
 
 <div>
