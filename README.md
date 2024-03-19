@@ -28,5 +28,6 @@
 ### Meus resultados:
 
 <div>
-   <img height="180em" src="https://github-readme-stats-vercel.app/api?username=anjosgabriel&show_icons=true&theme=merko&inclue_all_commits=true&count_private=true/>"
+   ![anjosgabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjosgabriel&layout=donut)](https://github.com/anjosgabriel/github-readme-stats)
 </div>
