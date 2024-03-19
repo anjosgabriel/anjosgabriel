@@ -10,5 +10,6 @@
 
 <div>
   <a href="https://github.com/anjosgabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjosgabriel&show_icons=true&theme=dracula&incluede_all_commits=true&count_private=true"/>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjosgabriel&show_icons=true&theme=dracula&incluede_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjosgabriel&layout=compact&langs_count=16&theme=dracula"/>
 </div>
