@@ -1,7 +1,7 @@
 # Seja Bem-Vindo 👋
 ## Eu sou Gabriel | Desenvolvedor de sistemas Web e Mobile
 ### Sobre mim:
-<br>
+
 - 🔭 Atualmente estou trabalhando no projeto Lines
 - 🌱 Estou aprendendo tecnologias como: React Native, JavaScript, Google Firebase...
 - 👯 Procuro colaborar em gestão de projetos 
