@@ -1,4 +1,5 @@
 <p align="center">
+  <img width="100px" src="#" align="center" />
   <h1>Seja Bem-Vindo 👋</h1>
   <h2>Eu sou Gabriel</h2>
   <h3>Desenvolvedor de sistemas Web e Mobile</h3>
