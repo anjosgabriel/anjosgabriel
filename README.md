@@ -1,7 +1,7 @@
 <p align="center">
-  # Seja Bem-Vindo 👋
-  ## Eu sou Gabriel
-  ### Desenvolvedor de sistemas Web e Mobile
+  <h1>Seja Bem-Vindo 👋</h1>
+  <h2>Eu sou Gabriel</h2>
+  <h3>Desenvolvedor de sistemas Web e Mobile</h3>
 </p>
 
 - 🔭 Atualmente estou trabalhando no projeto Lines
