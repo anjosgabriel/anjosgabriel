@@ -29,7 +29,7 @@
 <div>
    <a href="https://beacons.ai/anjosgabriel"></a>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjosgabriel&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjosgabriel&layout=compact&langs_count=16&theme=merko"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjosgabriel&layout=donut&langs_count=16&theme=merko"/>
 </div>
 
 <br><br>
