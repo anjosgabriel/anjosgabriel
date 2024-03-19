@@ -7,7 +7,7 @@
 - 🔭 Atualmente estou trabalhando no projeto Lines
 - 🌱 Estou aprendendo tecnologias como: React Native, JavaScript, Google Firebase...
 - 👯 Procuro colaborar em gestão de projetos 
-- 📫 Como chegar até mim: 
+- 📫 Como chegar até mim: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/anjosgabriel/)
 - ⚡ Fun fact: Gosto de programação, acho muito interessante essa área da técnologia, porém futuramente pretendo migrar para Gestão.
 
 <div>
