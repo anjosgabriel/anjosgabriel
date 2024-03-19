@@ -13,7 +13,6 @@
 
 - 🔭 Atualmente estou trabalhando no projeto Lines
 - 🌱 Estou aprendendo tecnologias como: React Native, JavaScript, Google Firebase...
-- 👯 Procuro colaborar em gestão de projetos 
 - ⚡ Fun fact: Gosto de programação, acho muito interessante essa área da técnologia, porém futuramente pretendo migrar para Gestão de projetos.
 - 📫 Como chegar até mim:
   <br><br>
