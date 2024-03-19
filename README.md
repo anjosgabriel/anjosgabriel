@@ -19,7 +19,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjosgabriel&layout=donut&langs_count=16&theme=merko"/>
 </div>
 
-<br><br>
+<br>
 
 ### Sobre mim:
 
@@ -34,4 +34,4 @@
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
 </div>
 
-## Obrigado por visitar!
+### Obrigado!
