@@ -6,7 +6,9 @@
 - 🌱 Estou aprendendo tecnologias como: React Native, JavaScript, Google Firebase...
 - 👯 Procuro colaborar em gestão de projetos 
 - ⚡ Fun fact: Gosto de programação, acho muito interessante essa área da técnologia, porém futuramente pretendo migrar para Gestão.
-- 📫 Como chegar até mim: 
+- 📫 Como chegar até mim:
+  [![LinkedIn](https://exemplo.com/linkedin.png)](https://www.linkedin.com/seuperfil)
+
 
 <div>
   <a href="https://github.com/anjosgabriel">
