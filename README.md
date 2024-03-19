@@ -9,7 +9,8 @@
 - 📫 Como chegar até mim:
   <BR>
   <div>
-   [![LinkedIn](https://www.linkedin.com/exemplo)](https://www.linkedin.com/in/anjosgabriel/)
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavo-henrique-torres-e-silva-3a6946263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- 
+       readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anjosgabriel/" height="30" width="40" /></a>
   </div>
 
 <div>
