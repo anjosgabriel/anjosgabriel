@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100px" src="#" align="center" />
+  <img width="100px" src="https://drive.google.com/file/d/1AphEHyUYtIDDMR7v8OkR9L3pyAicBbzS/view?usp=sharing" align="center" />
   <h1>Seja Bem-Vindo 👋</h1>
   <h2>Eu sou Gabriel</h2>
   <h3>Desenvolvedor de sistemas Web e Mobile</h3>
