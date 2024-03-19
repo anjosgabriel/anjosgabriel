@@ -7,7 +7,7 @@
 - 👯 Procuro colaborar em gestão de projetos 
 - ⚡ Fun fact: Gosto de programação, acho muito interessante essa área da técnologia, porém futuramente pretendo migrar para Gestão.
 - 📫 Como chegar até mim:
-  [![LinkedIn](https://exemplo.com/linkedin.png)](https://www.linkedin.com/seuperfil)
+  [![LinkedIn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Flinkedin_174857&psig=AOvVaw0-3ch_DvnJIIHsgEqq6psi&ust=1710934719791000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjBvtOegIUDFQAAAAAdAAAAABAE)](https://www.linkedin.com/seuperfil)
 
 
 <div>
