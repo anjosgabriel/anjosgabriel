@@ -7,7 +7,7 @@
 - 👯 Procuro colaborar em gestão de projetos 
 - ⚡ Fun fact: Gosto de programação, acho muito interessante essa área da técnologia, porém futuramente pretendo migrar para Gestão.
 - 📫 Como chegar até mim:
-  <br>
+  <br><br>
   
 <div> 
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
