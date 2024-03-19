@@ -8,8 +8,9 @@
 - ⚡ Fun fact: Gosto de programação, acho muito interessante essa área da técnologia, porém futuramente pretendo migrar para Gestão.
 - 📫 Como chegar até mim:
   <BR>
- [![LinkedIn](https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B6RFBhOppTsiXpDpA4lvJxA%3D%3D)](https://www.linkedin.com/in/anjosgabriel/)
-
+  <div>
+   [![LinkedIn](https://www.linkedin.com/exemplo)](https://www.linkedin.com/in/anjosgabriel/)
+  </div>
 
 <div>
   <a href="https://github.com/anjosgabriel">
