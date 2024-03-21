@@ -27,7 +27,7 @@
 - 🌱 Estou aprendendo tecnologias como: React Native, JavaScript, Google Firebase...
 - ⚡ Fun fact: Gosto de programação, acho muito interessante essa área da técnologia, porém futuramente pretendo migrar para Gestão de projetos.
 - 📫 Como chegar até mim:
-  <br><br>
+  <br>
   
 <div> 
  <a href="https://www.linkedin.com/in/anjosgabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
