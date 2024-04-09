@@ -23,9 +23,9 @@
 
 ### Sobre mim:
 
-- 🔭 Atualmente estou trabalhando no projeto Lines
-- 🌱 Estou aprendendo tecnologias como: React Native, JavaScript, Google Firebase...
-- ⚡ Fun fact: Gosto de programação, acho muito interessante essa área da técnologia, porém futuramente pretendo migrar para Gestão de projetos.
+- 🔭 Atualmente estou trabalhando no projeto L!nes
+- 🌱 Estou aprendendo tecnologias como: React Native usando o JavaScript, Google Firebase...
+- ⚡ Fun fact: Gosto de programação e acho essa área da tecnologia muito interessante. No entanto, pretendo migrar para Gestão de Projetos no futuro.
 - 📫 Como chegar até mim:
   <br>
   
