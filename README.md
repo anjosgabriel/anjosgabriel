@@ -25,7 +25,7 @@
 
 - 🔭 Atualmente estou trabalhando no projeto L!nes
 - 🌱 Estou aprendendo tecnologias como: React Native usando o JavaScript, Google Firebase...
-- ⚡ Fun fact: Gosto de programação e acho essa área da tecnologia muito interessante. Quero muito traalhar com Web Design.
+- ⚡ Fun fact: Gosto de programação e acho essa área da tecnologia muito interessante. Quero muito trabalhar com Web Design.
 - 📫 Como chegar até mim:
   <br>
   
