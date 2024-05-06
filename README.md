@@ -7,7 +7,7 @@
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React-Native" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />       
 </div>
 
@@ -27,7 +27,7 @@
 
 - 🔭 Atualmente estou trabalhando no projeto L!nes
 - 🌱 Estou aprendendo tecnologias como: React Native usando o JavaScript, Google Firebase...
-- ⚡ Fun fact: Gosto de programação e acho essa área da tecnologia muito interessante. Quero muito trabalhar com Web Design.
+- ⚡ Fun fact: Gosto de programação e acho essa área da tecnologia muito interessante, principalmente dados, desenvolvimento front-end e gestão de projetos.
 - 📫 Como chegar até mim:
   <br>
   
