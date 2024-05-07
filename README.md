@@ -1,6 +1,7 @@
 # Gabriel dos Anjos
 ### Desenvolvedor de sistemas Web e Mobile
 <br>
+
 ### Sobre:
 
 - Tenho 20 anos, sou apaixonado por tecnologia e me aprofundar nesse mundo é muito impolgante. Atualmente estudo na Fundação Bradesco, no Curso técnico em desenvolvimento de sistemas (início agosto de 2022 - término junho de 2024), com o objetivo de crescer profissionalmente, visto que desejo ingressar no mercado de trabalho na área da T.I e colaborar em projetos inovadores e desafiadores.
