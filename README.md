@@ -2,6 +2,9 @@
 ### Criador de Mundos Digitais 🚀
 <br>
 
+![Visitas no Perfil](https://komarev.com/ghpvc/?username=anjosgabriel)
+
+
 ### Tecnologias que Domino:
 
 <div style="display: inline_block"><br>
