@@ -7,7 +7,7 @@
 - Atualmente estou trabalhando no projeto L!nes. Para isso, estou aprendendo tecnologias como: React Native usando o JavaScript, Google Firebase...
 - Como me encontrar:
 
-<br><br>
+
   
 <div> 
  <a href="https://www.linkedin.com/in/anjosgabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
