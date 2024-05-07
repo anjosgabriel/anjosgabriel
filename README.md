@@ -1,20 +1,18 @@
 # Gabriel dos Anjos
 ### Desenvolvedor de sistemas Web e Mobile
-
+<br>
 ### Sobre:
 
 - Tenho 20 anos, sou apaixonado por tecnologia e me aprofundar nesse mundo é muito impolgante. Atualmente estudo na Fundação Bradesco, no Curso técnico em desenvolvimento de sistemas (início agosto de 2022 - término junho de 2024), com o objetivo de crescer profissionalmente, visto que desejo ingressar no mercado de trabalho na área da T.I e colaborar em projetos inovadores e desafiadores.
 - Atualmente estou trabalhando no projeto L!nes. Para isso, estou aprendendo tecnologias como: React Native usando o JavaScript, Google Firebase...
 - Como me encontrar:
-
-
-  
+<br>
 <div> 
  <a href="https://www.linkedin.com/in/anjosgabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:anjosgabriel86@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </div>
 
-<br> 
+<br><br>
 
 ### Tecnologias:
 
