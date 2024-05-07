@@ -1,8 +1,8 @@
 # Gabriel dos Anjos
-### Desenvolvedor de sistemas Web e Mobile
+### Criador de Mundos Digitais 🚀
 <br>
 
-### Tecnologias:
+### Tecnologias que Domino:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,11 +16,11 @@
 
 <br><br>
 
-### Sobre:
+### Sobre Mim:
 
-- Tenho 20 anos, sou apaixonado por tecnologia e me aprofundar nesse mundo é muito impolgante. Atualmente estudo na Fundação Bradesco, no Curso técnico em desenvolvimento de sistemas (início agosto de 2022 - término junho de 2024), com o objetivo de crescer profissionalmente, visto que desejo ingressar no mercado de trabalho na área da T.I e colaborar em projetos inovadores e desafiadores.
-- Atualmente estou trabalhando no projeto L!nes. Para isso, estou aprendendo tecnologias como: React Native usando o JavaScript, Google Firebase...
-- Como me encontrar:
+- Tenho 20 anos e sou um entusiasta da tecnologia, mergulhar no universo do desenvolvimento é minha paixão. Atualmente, estou cursando Desenvolvimento de Sistemas na Fundação Bradesco (agosto de 2022 - junho de 2024), buscando crescer profissionalmente e me preparar para ingressar no mercado de trabalho de TI, contribuindo em projetos inovadores e desafiadores.
+- Atualmente, estou imerso no emocionante projeto L!nes, onde estou aprimorando minhas habilidades em tecnologias como: React Native com JavaScript, Google Firebase...
+- Conecte-se comigo:
 <br>
 <div> 
  <a href="https://www.linkedin.com/in/anjosgabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -34,9 +34,9 @@
 <div>
    <a href="https://beacons.ai/anjosgabriel"></a>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjosgabriel&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjosgabriel&layout=donut&langs_count=16&theme=merko"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjosgabriel&layout=compact&langs_count=16&theme=merko"/>
 </div>
 
 <br>
 
-### Obrigado por visitar!
+### Obrigado por Visitar! 🙌
