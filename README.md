@@ -1,5 +1,5 @@
 # Gabriel dos Anjos
-## Desenvolvedor de sistemas Web e Mobile
+### Desenvolvedor de sistemas Web e Mobile
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,10 +25,8 @@
 
 ### Sobre:
 
-- 🔭 Atualmente estou trabalhando no projeto L!nes
-- 🌱 Estou aprendendo tecnologias como: React Native usando o JavaScript, Google Firebase...
-  <br>
-- 📫 Como chegar até mim:
+- 🔭 Atualmente estou trabalhando no projeto L!nes. Para isso, estou aprendendo tecnologias como: React Native usando o JavaScript, Google Firebase...
+- 📫 Como me encontrar:
   <br>
   
 <div> 
