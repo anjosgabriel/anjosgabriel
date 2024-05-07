@@ -1,7 +1,7 @@
 # Gabriel dos Anjos
 ### Desenvolvedor de sistemas Web e Mobile
 
-<br><br>
+<br>
 
 ### Tecnologias:
 
@@ -17,7 +17,7 @@
   <img align="center" alt="Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />       
 </div>
 
-<br>
+<br><br>
   
 ### Insights:
 
