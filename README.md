@@ -29,8 +29,9 @@
 
 ### Sobre:
 
-- 🔭 Atualmente estou trabalhando no projeto L!nes. Para isso, estou aprendendo tecnologias como: React Native usando o JavaScript, Google Firebase...
-- 📫 Como me encontrar:
+- Tenho 20 anos, sou apaixonado por tecnologia e me aprofundar nesse mundo é muito impolgante. Atualmente estudo na Fundação Bradesco, no Curso técnico em desenvolvimento de sistemas (início agosto de 2022 - término junho de 2024), com o objetivo de crescer profissionalmente, visto que desejo ingressar no mercado de trabalho na área da T.I e colaborar em projetos inovadores e desafiadores.
+- Atualmente estou trabalhando no projeto L!nes. Para isso, estou aprendendo tecnologias como: React Native usando o JavaScript, Google Firebase...
+- Como me encontrar:
   <br>
   
 <div> 
@@ -40,4 +41,4 @@
 
 <br>
 
-### Obrigado!
+### Obrigado por visitar!
