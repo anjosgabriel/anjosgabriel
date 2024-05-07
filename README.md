@@ -3,6 +3,8 @@
 
 <br><br>
 
+### Tecnologias:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -15,7 +17,7 @@
 
 <br>
   
-### Meus resultados:
+### Insights:
 
 <div>
    <a href="https://beacons.ai/anjosgabriel"></a>
