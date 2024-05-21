@@ -1,8 +1,8 @@
 # Gabriel dos Anjos
-### Criador de Mundos Digitais 🚀
+### Mundos Digitais | WEB & MOBILE 🚀
 <br>
 
-### Tecnologias que Domino:
+### Tecnologias:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,7 +18,7 @@
 
 ### Sobre Mim:
 
-- Tenho 20 anos e sou um entusiasta da tecnologia, mergulhar no universo do desenvolvimento é interessante, porém minha paixão é área de Gestão da tecnologia. Atualmente, estou cursando Desenvolvimento de Sistemas na Fundação Bradesco (agosto de 2022 - junho de 2024), mas FUTURAMENTE, ou melhor, logo em breve estarei estudando metodologias ágeis de forma mais densa, assim buscando crescer profissionalmente e me preparar para ingressar no mercado de trabalho de TI, contribuindo em projetos inovadores e desafiadores.
+- Tenho 20 anos e sou um entusiasta da tecnologia. A área de desenvolvimento é interessante, porém minha paixão é área de Gestão da tecnologia, logo em breve estarei estudando metodologias ágeis de forma mais densa, assim buscando crescer profissionalmente e me preparar para ingressar no mercado de trabalho de TI, contribuindo em projetos inovadores e desafiadores.
 - Atualmente, estou imerso no emocionante projeto L!nes, onde estou aprimorando minhas habilidades em tecnologias como: React Native com JavaScript, Google Firebase...
 - Conecte-se comigo:
 <br>
