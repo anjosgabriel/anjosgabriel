@@ -18,7 +18,7 @@
 
 ### Sobre Mim:
 
-- Tenho 20 anos e sou um entusiasta da tecnologia, mergulhar no universo do desenvolvimento é minha paixão. Atualmente, estou cursando Desenvolvimento de Sistemas na Fundação Bradesco (agosto de 2022 - junho de 2024), buscando crescer profissionalmente e me preparar para ingressar no mercado de trabalho de TI, contribuindo em projetos inovadores e desafiadores.
+- Tenho 20 anos e sou um entusiasta da tecnologia, mergulhar no universo do desenvolvimento é interessante, porém minha paixão é área de Gestão da tecnologia. Atualmente, estou cursando Desenvolvimento de Sistemas na Fundação Bradesco (agosto de 2022 - junho de 2024), mas FUTURAMENTE, ou melhor, logo em breve estarei estudando metodologias ágeis de forma mais densa, assim buscando crescer profissionalmente e me preparar para ingressar no mercado de trabalho de TI, contribuindo em projetos inovadores e desafiadores.
 - Atualmente, estou imerso no emocionante projeto L!nes, onde estou aprimorando minhas habilidades em tecnologias como: React Native com JavaScript, Google Firebase...
 - Conecte-se comigo:
 <br>
