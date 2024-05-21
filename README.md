@@ -19,7 +19,7 @@
 ### Sobre Mim:
 
 - Tenho 20 anos e sou um entusiasta da tecnologia. A área de desenvolvimento é interessante, porém minha paixão é área de Gestão da tecnologia, logo em breve estarei estudando metodologias ágeis de forma mais densa, assim buscando crescer profissionalmente e me preparar para ingressar no mercado de trabalho de TI, contribuindo em projetos inovadores e desafiadores.
-- Atualmente, estou imerso no emocionante projeto L!nes, onde estou aprimorando minhas habilidades em tecnologias como: React Native com JavaScript, Google Firebase...
+- No meu curso técnico de Desenvolvimento de sistemas, trabalhei no projeto L!nes (no TCC), onde aprimorei minhas habilidades em tecnologias como: React Native com JavaScript, Google Firebase...
 - Conecte-se comigo:
 <br>
 <div> 
