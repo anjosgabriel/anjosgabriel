@@ -1,8 +1,3 @@
-# Gabriel dos Anjos
-### Mundos Digitais | WEB & MOBILE 🚀
-<br>
-
-### Tecnologias:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,27 +11,8 @@
 
 <br><br>
 
-### Sobre Mim:
-
-- Tenho 20 anos e sou um entusiasta da tecnologia. A área de desenvolvimento é interessante, porém minha paixão é área de Gestão da tecnologia, logo em breve estarei estudando metodologias ágeis de forma mais densa, assim buscando crescer profissionalmente e me preparar para ingressar no mercado de trabalho de TI, contribuindo em projetos inovadores e desafiadores.
-- No meu curso técnico de Desenvolvimento de sistemas, trabalhei no projeto L!nes (no TCC), onde aprimorei minhas habilidades em tecnologias como: React Native com JavaScript, Google Firebase...
-- Conecte-se comigo:
-<br>
-<div> 
- <a href="https://www.linkedin.com/in/anjosgabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:anjosgabriel86@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-</div>
-
-<br><br>
-  
-### Insights:
-
 <div>
    <a href="https://beacons.ai/anjosgabriel"></a>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjosgabriel&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjosgabriel&layout=compact&langs_count=16&theme=merko"/>
 </div>
-
-<br>
-
-### Obrigado por Visitar! 🙌
