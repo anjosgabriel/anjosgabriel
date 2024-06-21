@@ -7,6 +7,9 @@
   <img align="center" alt="R" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
 </div>
 <br>
+
+# Meus resultados
+<p>Segue os resultados de minhas linguagens usadas ao longo dos meus projetos realizados em cursos:</p>
 <div>
    <a href="https://beacons.ai/anjosgabriel"></a>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjosgabriel&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
