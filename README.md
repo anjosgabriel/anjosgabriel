@@ -8,7 +8,7 @@
 </div>
 <br>
 
-# Meus resultados
+## Meus resultados
 <p>Segue os resultados de minhas linguagens usadas ao longo dos meus projetos realizados em cursos:</p>
 <div>
    <a href="https://beacons.ai/anjosgabriel"></a>
