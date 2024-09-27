@@ -36,4 +36,4 @@ Aqui estão algumas das principais tecnologias com as quais trabalho:
 
 Você pode me encontrar em diversas plataformas:
 
-![Descrição da imagem](https://link-da-imagem.com/imagem.png)(https://www.linkedin.com/in/anjosgabriel)
+- [LinkedIn](https://www.linkedin.com/in/anjosgabriel)
