@@ -1,10 +1,7 @@
 # 👋 Olá, eu sou o Gabriel!
 
 ## Sobre mim
-🎓 Tenho 21 anos e atualmente estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **FIAP**.  
-💻 Sou apaixonado por tecnologia e **desenvolvimento Back-end** é o que mais me encanta no mundo da programação!  
-
-Durante minha jornada, já criei alguns projetos e estou sempre em busca de novas tecnologias e desafios que possam me ajudar a evoluir como desenvolvedor.
+🎓 Estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **FIAP**.  
 
 ---
 
