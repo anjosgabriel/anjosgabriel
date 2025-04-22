@@ -1,13 +1,4 @@
-# 👋 Olá, eu sou o Gabriel!
-
-## Sobre mim
-🎓 Estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **FIAP**.  
-
----
-
 ## 🚀 Habilidades
-
-Aqui estão algumas das principais tecnologias com as quais trabalho:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,7 +10,7 @@ Aqui estão algumas das principais tecnologias com as quais trabalho:
 
 ---
 
-## 📊 Minhas estatísticas
+## Estatísticas
 
 <div>
    <a href="https://beacons.ai/anjosgabriel"></a>
